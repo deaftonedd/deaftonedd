@@ -6,15 +6,8 @@
 <p align="center">
 ¶ 1̲̅7̲̅ - 0̲̅4̲̅/2̲̅3̲̅ •
 <p align="center">
-¶ 𝑩̲̅𝑨̲̅𝑺̲̅𝑰̲̅𝑪̲̅ 𝑫̲̅𝑵̲̅𝑰̲̅ / 𝑫̲̅𝑵̲̅𝑰̲̅ 𝑰̲̅𝑭̲̅ 𝑼̲̅𝑵̲̅𝑫̲̅𝑬̲̅𝑹̲̅ 1̲̅6̲̅ • [ unless ik u previously ]
+¶ read strawpage before int'ing. •
 
 
 <p align="center">
-hi below r my commission stuff
-Locations I will be able to be contacted/comissioned !
 
-<p align="center">
-[my Tumblr ](https://gaussedup.tumblr.com/), [my instagram ](https://www.instagram.com/gaussedup/), [Discord](https://discord.com/channels/@me) ! (discord username is gaussedup )
- 
-<p align="center">
-[ commissions-strawp ](https://commissionshalo.straw.page/) <- prices
