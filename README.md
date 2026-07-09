@@ -9,8 +9,7 @@
 ¶ read strawpage before int'ing. •
 
 
-<p align="center">
-¶ #1 Kick synpath trust. •
+
  
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
