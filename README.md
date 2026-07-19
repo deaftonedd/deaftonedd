@@ -1,5 +1,6 @@
 <p align="center">
- <img src="https://i.ytimg.com/vi/erbrCMvZUns/sddefault.jpg" width="300"> 
+ <img src="https://i.pinimg.com/736x/ac/1d/e6/ac1de6b4875b298ba89cdd69ffe08a13.jpg" width="300"> 
+ (by zpljajaja on X)
  
 <p align="center">
 ¶ 𝔐𝔞𝔠𝔥 / 𝔐𝔬𝔱𝔬 / 𝔇𝔢𝔞𝔣 •
