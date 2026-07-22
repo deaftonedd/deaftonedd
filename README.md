@@ -19,4 +19,5 @@
 </p>
 
 <p align="center">
-Below is my personal :Call of duty" franchise/lore story! no it doesn't have 141 or any of the copy and paste stuff (love them but give them a break, please) You can read about it! ( Disclaimer! this does contain pretty harsh subjects, such as cults, horror, very in-depth trauma, etc.) [Horror-Warfare](https://docs.google.com/document/d/1UWmmNXTsKaQlNDsFY_K4a2hSE9iwodLhFDsa9Y0h6YA/edit?usp=sharing).
+Below is my personal :Call of duty" franchise/lore story! no it doesn't have 141 or any of the copy and paste stuff (love them but give them a break, please) You can read about it! ( Disclaimer! this does contain pretty harsh subjects, such as cults, horror, very in-depth trauma, etc.) 
+<a href="https://docs.google.com/document/d/1UWmmNXTsKaQlNDsFY_K4a2hSE9iwodLhFDsa9Y0h6YA/edit?usp=sharing" target="_blank">Horror Warfare</a>
