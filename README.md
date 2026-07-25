@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.pinimg.com/736x/6b/20/56/6b2056359df5f5074f37412345d43eac.jpg" width="300"> 
+ <img src="https://i.pinimg.com/736x/79/86/b4/7986b48f5ea347844c7d9335880850b5.jpg" width="300"> 
 
  
 <p align="center">
@@ -19,5 +19,4 @@
 </p>
 
 <p align="center">
-Below is my personal :Call of duty" franchise/lore story! no it doesn't have 141 or any of the copy and paste stuff (love them but give them a break, please) You can read about it! ( Disclaimer! this does contain pretty harsh subjects, such as cults, horror, very in-depth trauma, etc.) 
-<a href="https://docs.google.com/document/d/1UWmmNXTsKaQlNDsFY_K4a2hSE9iwodLhFDsa9Y0h6YA/edit?usp=sharing" target="_blank">Horror Warfare</a>
+<a href="https://docs.google.com/document/d/1UWmmNXTsKaQlNDsFY_K4a2hSE9iwodLhFDsa9Y0h6YA/edit?usp=sharing" target="_blank">Horror Warfare</a> my personal writing project of the COD universe
