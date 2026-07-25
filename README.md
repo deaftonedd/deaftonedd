@@ -7,7 +7,7 @@
 <p align="center">
 ¶ 1̲̅7̲̅ - 0̲̅4̲̅/2̲̅3̲̅ •
 <p align="center">
-¶ read strawpage before int'ing. •
+¶ read strawpage/cardd before int'ing. •
 
 
 
