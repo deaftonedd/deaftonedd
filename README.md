@@ -3,7 +3,7 @@
 
  
 <p align="center">
-¶ 𝔐𝔞𝔠𝔥 / 𝔐𝔬𝔱𝔬 / 𝔇𝔢𝔞𝔣 •
+¶ Deaff / Mach •
 <p align="center">
 ¶ 1̲̅7̲̅ - 0̲̅4̲̅/2̲̅3̲̅ •
 <p align="center">
