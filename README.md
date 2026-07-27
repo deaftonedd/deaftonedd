@@ -1,11 +1,11 @@
 <p align="center">
  <img src="https://i.pinimg.com/736x/43/e9/f4/43e9f431fddf98839c5ca2e89b14d333.jpg" width="400">  
 <p align="center">
-$${\color{darkgreen}\text{¶ Deaff / Mach •}}$$
+ $${\color{darkgreen}¶Deaff /\color{blue}Mach•}$$
 <p align="center">
-$${\color{darkgreen}\text{¶ 1̲̅7̲̅ - 0̲̅4̲̅/2̲̅3̲̅ •}}$$
+ $${\color{darkgreen}¶ 17 /\color{blue}04/23•}$$
 <p align="center">
-$${\color{darkgreen}\text{¶ read strawpage/cardd before int'ing. •}}$$
+$${\color{teal}\text{¶ read strawpage/cardd before int'ing. •}}$$
 
 
 
