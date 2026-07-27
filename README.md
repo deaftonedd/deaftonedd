@@ -1,5 +1,7 @@
 <p align="center">
- <img src="https://i.pinimg.com/736x/79/86/b4/7986b48f5ea347844c7d9335880850b5.jpg" width="300"> 
+ <img src="" width="300"> 
+
+<img width="594" height="420" alt="Untitled_design__1_-removebg-preview" src="https://github.com/user-attachments/assets/34b4a68a-41bc-4535-ad41-df876fff7840" />
 
  
 <p align="center">
