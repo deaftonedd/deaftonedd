@@ -12,13 +12,9 @@
 <p align="center">
  $\color{#6FB054}\text{17,04-23}\color{#566B2E}\text{ | it/he,}$
 <p align="center">
-$\color{#54B091}\text{read Strawpage }\color{#3C6282}\text{ or card}\color{#54B091}\text{ for info b4 int'ing }$
+$\color{#54B091}\text{read Strawpage }\color{#3C6282}\text{ or Carrd}\color{#54B091}\text{ for info b4 int'ing }$
  
  
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lzihzos4zg6nrf2pux3yivzdde&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=1f591d" width="200">
-  </a>
-</p>
+
 
 
