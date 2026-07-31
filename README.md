@@ -1,8 +1,8 @@
 <p align="center"> 
- <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/1852ed85-e549-44f4-a9a1-613c05ae7313">
- <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/1852ed85-e549-44f4-a9a1-613c05ae7313">
+ <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/1852ed85-e549-44f4-a9a1-613c05ae7313" width="300">
+ <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/1852ed85-e549-44f4-a9a1-613c05ae7313" width="300">
  <img alt="Profile Banner" src="https://github.com/user-attachments/assets/1852ed85-e549-44f4-a9a1-613c05ae7313" 
-</picture>
+  </picture width="700">
  
 
 
