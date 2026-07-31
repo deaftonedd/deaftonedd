@@ -1,14 +1,19 @@
-<p align="center">
- <img src="https://i.pinimg.com/736x/43/e9/f4/43e9f431fddf98839c5ca2e89b14d333.jpg" width="400">  
-<p align="center">
- $${\color{darkgreen}¶Deaff /\color{blue}Mach•}$$
-<p align="center">
- $${\color{darkgreen}¶ 17 /\color{blue}04/23•}$$
-<p align="center">
-$${\color{teal}\text{¶ read strawpage/cardd before int'ing. •}}$$
+<p align="center"> 
+ <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/1852ed85-e549-44f4-a9a1-613c05ae7313">
+ <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/1852ed85-e549-44f4-a9a1-613c05ae7313">
+ <img alt="Profile Banner" src="https://github.com/user-attachments/assets/1852ed85-e549-44f4-a9a1-613c05ae7313" 
+</picture>
+ 
 
 
 
+<p align="center">
+ $\color{#6FB054}\text{ !! Deaf /}\color{#566B2E}\text{ Mach,}$
+<p align="center">
+ $\color{#6FB054}\text{17,04-23}\color{#566B2E}\text{ | it/he,}$
+<p align="center">
+$\color{#54B091}\text{read Strawpage }\color{#3C6282}\text{ or card}\color{#54B091}\text{ for info b4 int'ing }$
+ 
  
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
