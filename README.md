@@ -2,10 +2,7 @@
  <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/fd1c771a-2ab6-4e32-b5c6-368c0dfcd228" width="300">
  <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/fd1c771a-2ab6-4e32-b5c6-368c0dfcd228" width="300">
  <img alt="Profile Banner" src="https://github.com/user-attachments/assets/fd1c771a-2ab6-4e32-b5c6-368c0dfcd228" 
-  </picture width="600">
- 
-
-
+  </picture width="500">
 
 
 <p align="center">
