@@ -1,3 +1,8 @@
+<p align="center">
+<a href="https://forms.gle/9PEXHSbB1QDdHdfA8">Call Of Duty Ghosts 2 Petition SIGN</a>
+
+
+
 <p align="center"> 
  <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/fd1c771a-2ab6-4e32-b5c6-368c0dfcd228" width="300">
  <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/fd1c771a-2ab6-4e32-b5c6-368c0dfcd228" width="300">
