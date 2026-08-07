@@ -3,12 +3,6 @@
 
 
 
-<p align="center"> 
- <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/fd1c771a-2ab6-4e32-b5c6-368c0dfcd228" width="300">
- <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/fd1c771a-2ab6-4e32-b5c6-368c0dfcd228" width="300">
- <img alt="Profile Banner" src="https://github.com/user-attachments/assets/fd1c771a-2ab6-4e32-b5c6-368c0dfcd228" 
-  </picture width="500">
-
 
 <p align="center">
  $\color{#6FB054}\text{ !! Deaf /}\color{#566B2E}\text{ Mach,}$
@@ -18,6 +12,9 @@
 $\color{#54B091}\text{read Strawpage }\color{#3C6282}\text{ or Carrd}\color{#54B091}\text{ for info b4 int'ing }$
  
  
+<p align="center">
+I know social media is not the best place to go to, but hi, im 17, and my household situation is getting worse as my life goes on, I'm not safe here and have severe mental ailments that nobody takes seriously. I have a Ko-fi up, any tips, commissions, or just any donations would really assist me in getting out of my house or with at least saving money to fend for myself and my dog.
 
+<a href="https://ko-fi.com/deaftonedd">My Ko-Fi</a>
 
 
